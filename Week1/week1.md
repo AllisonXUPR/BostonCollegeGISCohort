@@ -4,23 +4,36 @@ title: Week 1
 permalink: /Week1/
 ---
 
-## Deconstructing Digital Scholarship Projects
+### GIS Cohort Week 1 (9/5/2018)
 
 ### Schedule
 
-* 1:05–1:10. Facilitators introduce activity. Participants move to tables.
-* 1:10–1:20. Independently review digital scholarship projects.
-* 1:20–1:45. Answer deconstruction questions, discuss at table, move into reflection questions.
-* 1:45–1:55. Report responses to reflection questions to larger group.
+* 1:00–1:10. Introduction
+* 1:10–1:20. Form pairs and assign each pair to deconstruct a GIS project
+* 1:20–1:30. Group sharing
+* 1:30–1:50. Introduction to GIS and Spatial Thinking
+* 1:50–1:55. Break time
+* 1:55–2:50. Hands-on Exercise
+* 2:50–3:00. Closing
 
-### Materials
+### Deconstruct a GIS project
 
-* [Worksheet 1: GIS Project Examples 1](/BostonCollegeGISCohort/week1/worksheet-1/)
-* [Worksheet 2: GIS Project Examples 2](BostonCollegeGISCohort/week1/worksheet-2/)
-* [Worksheet 3: GIS Project Examples 3](BostonCollegeGISCohort/week1/worksheet-3/)
+* [Group A: Project Examples 1 - Males and Females without health insurance in the United States ](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=62ade4be01254971a0d94a12e6e1bfb9/)
+* [Group B: Project Examples 2 - Connecticut's Coast: Then and Now ](http://clear3.uconn.edu/viewers/Coast1934/)
+* [Group C: Project Examples 3 - 'Stop and Frisk' Is All But Gone From New York  ](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html/)
 
-### Instructions
+### Download Exercise Materials
 
-1. Table tents reflect project categories (e.g. STEM, digital exhibits, text encoding) used on [Worksheet 1: Digital Scholarship Project Examples](/BostonCollegeGISCohort/week1/worksheet-1/). Sit at a table whose project category interests you, and select one of the project examples. Review the project independently.
-1. Using [Worksheet 2: Deconstruction Questions](/BostonCollegeGISCohort/week1/worksheet-2/), answer 1–2 questions from each category that are appropriate to your project. Discuss your responses to these questions at your table or in small groups.
-1. Using [Worksheet 3: Reflection and Discussion Questions](/BostonCollegeGISCohort/week1/worksheet-3/), answer and discuss the questions at your table or in small groups. Choose a representative to report out about this discussion to all workshop participants.
+* Use a data set to create a map in ArcGIS: All of the data sets for exercise are contained in one Zip file: [Download the Zip file](https://github.com/AllisonXUPR/data/blob/master/GIS%20Cohort%20Data%202.zip?raw=true)
+
+* Slides are available to download: [Download the Slides - Introduction to GIS and Spatial Thinking](https://github.com/AllisonXUPR/BostonCollegeGISCohort/blob/master/IntroductionGISCohortFinal_9_4_18.pptx?raw=true)
+
+### More Resources
+* [Data Visualization Catalogue](https://datavizcatalogue.com/)
+* [Research Services Ongoing Workshops](http://www.bc.edu/offices/researchservices/tutorials.html)
+* [Research Services Tutorials](http://capricorn.bc.edu/tutorials/)
+* [DS Coffee & Code Workshops](http://capricorn.bc.edu/tutorials/)
+* [ArcGIS Lessons](https://learn.arcgis.com/en/)
+* [Carto Tutorials](https://carto.com/docs/tutorials/)
+* [Tableau Tutorials](https://www.tableau.com/learn/training)
+* [BC GIS LibGuide](https://libguides.bc.edu/gis)
